@@ -1,0 +1,19 @@
+body{
+  background: #eee;
+}
+div#content{
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+div#header{
+  height: 250px;
+  background: url('images/11.jpg');
+  background-size:100%;
+  background-position: center center;
+}
+
+div.text{
+  margin: 25px;
+}
